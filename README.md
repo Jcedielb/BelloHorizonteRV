@@ -2,6 +2,9 @@
 # Bello Horizonte VR
 
 Reconstrucción virtual de la playa **Bello Horizonte (Santa Marta, Colombia)** a partir de **datos geoespaciales reales**, optimizada para **Meta Quest standalone**.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/000a5c68-c17a-4318-81da-7406a36b327f" width="500" />
+</p>
 
 [Video demostración y exploración de la playa](https://www.youtube.com/watch?v=yUo5kCnFulg)
 
