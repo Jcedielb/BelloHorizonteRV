@@ -1,0 +1,15 @@
+.DS_Store
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+Build/
+Builds/
+MemoryCaptures/
+Recordings/
+
+*.csproj
+*.sln
+.vs/
+.idea/
