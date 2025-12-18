@@ -26,7 +26,7 @@ Crear una experiencia VR ligera y coherente que represente:
 ---
 ## Guía de Importación
 
-Este repositorio contiene activos de alta resolución para Realidad Virtual. Para asegurar que todos los archivos (texturas, modelos y bakes) se descarguen correctamente, es **obligatorio** seguir estos pasos utilizando Git LFS.
+Este repositorio contiene archivos pesados para Realidad Virtual. Para asegurar que todos los archivos (texturas, modelos y prefabs) se descarguen correctamente, es **obligatorio** seguir estos pasos utilizando Git LFS.
 
 ## Requisitos Previos
 
@@ -65,7 +65,7 @@ git lfs pull
 
 1. Abre **Unity Hub**.
 2. Haz clic en **Add** (Añadir) y selecciona la carpeta `BelloHorizonteRV`.
-3. Espera a que Unity importe los assets y abra el proyecto (suele demorarse un poco al ser la primera vez).
+3. Espera a que Unity importe los assets y abra el proyecto (suele demorarse entre 5 a 10 minutos aproximadamente en la primera vez).
 
 ---
 
