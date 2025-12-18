@@ -1,5 +1,27 @@
 
-# Bello Horizonte RV - Guía de Importación
+# Bello Horizonte VR
+
+Reconstrucción virtual de la playa **Bello Horizonte (Santa Marta, Colombia)** a partir de **datos geoespaciales reales**, optimizada para **Meta Quest standalone**.
+
+[Video demostración y exploración de la playa](https://www.youtube.com/watch?v=yUo5kCnFulg)
+
+
+## Objetivo
+Crear una experiencia VR ligera y coherente que represente:
+- Terreno y costa con DEM real.
+- Edificaciones con alturas aproximadas.
+- Interacción estable y buen rendimiento en Quest.
+
+## Datos y herramientas
+- **Terreno**: GMRT (batimetría + topografía)
+- **Edificios**: Google Open Buildings (huellas + alturas)
+- **Procesamiento**: QGIS, Google Earth Engine, GDAL
+- **Motor**: Unity (URP, XR Interaction Toolkit)
+- **VR**: Meta Quest 2 / 3
+- **Agua**:  (URP) [WaterWorks](https://assetstore.unity.com/packages/3d/environments/waterworks-simple-water-ocean-river-system-for-urp-reflection-re-206909?srsltid=AfmBOoqkrymmMM_R5XjfPinfuTs9vRpfAc1N3Zbdp-SeS25PQXB-Bovm)
+
+---
+## Guía de Importación
 
 Este repositorio contiene activos de alta resolución para Realidad Virtual. Para asegurar que todos los archivos (texturas, modelos y bakes) se descarguen correctamente, es **obligatorio** seguir estos pasos utilizando Git LFS.
 
@@ -43,3 +65,6 @@ git lfs pull
 3. Espera a que Unity importe los assets y abra el proyecto (suele demorarse un poco al ser la primera vez).
 
 ---
+
+
+
