@@ -13,3 +13,7 @@ Recordings/
 *.sln
 .vs/
 .idea/
+
+# Local temp / Unity debug
+.utmp/
+*BurstDebugInformation_DoNotShip/
