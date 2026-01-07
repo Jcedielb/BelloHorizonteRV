@@ -17,3 +17,16 @@ Recordings/
 # Local temp / Unity debug
 .utmp/
 *BurstDebugInformation_DoNotShip/
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+*BurstDebugInformation_DoNotShip/
+
+# Local builds
+*.apk
+*.aab
+Build/
+Builds/
